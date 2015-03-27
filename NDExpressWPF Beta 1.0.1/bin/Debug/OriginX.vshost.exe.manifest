@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>AwxPrYaApAlZUFUb2umVwoMVTEaeCbS96XpvSr99RYE=</dsig:DigestValue>
+        <dsig:DigestValue>H5Uqt3gwl6ZuWKnxHNEJRdXsufgvEEMAmZRtdICrMf0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -87,13 +87,13 @@
       <dsig:DigestValue>34CTuAx6eGTUcoZ0tWV+i0umiAxsZl5h1OP0EG9vIb4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="OriginX.exe.config" size="502">
+  <file name="OriginX.exe.config" size="541">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>XOo1XN3GuskH0phZd16gbncOWTVyIoJaJcMQ3Z6yOIk=</dsig:DigestValue>
+      <dsig:DigestValue>OlwFIZyl8sWw6jjHn2SU6EU/IbEkt8H4eAVdqZrZuuE=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
