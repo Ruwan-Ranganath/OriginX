@@ -1,0 +1,58 @@
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.exe.config
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.exe.manifest
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.application
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.exe
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.pdb
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Debug\MahApps.Metro.dll
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Debug\System.Windows.Interactivity.dll
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Debug\MahApps.Metro.xml
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\Login.baml
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\MainWindow.baml
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\Resources\Icons.baml
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\NewClient.baml
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\ViewClients.baml
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\App.baml
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\Login.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\MainWindow.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\Resources\Icons.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\NewClient.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\ViewClients.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\App.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX_MarkupCompile.cache
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.g.resources
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.Properties.Resources.resources
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.csproj.GenerateResource.Cache
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.exe.manifest
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.application
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.exe
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.pdb
+C:\Ranganath\Data\Desktop Software\Source Code\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.csprojResolveAssemblyReference.cache
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.exe.config
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.exe.manifest
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.application
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.exe
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.pdb
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\MahApps.Metro.dll
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\System.Windows.Interactivity.dll
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\MahApps.Metro.xml
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.csprojResolveAssemblyReference.cache
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\Login.baml
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\MainWindow.baml
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\Resources\Icons.baml
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\NewClient.baml
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\ViewClients.baml
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\App.baml
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\Login.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\MainWindow.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\Resources\Icons.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\NewClient.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\ViewClients.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\App.g.cs
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX_MarkupCompile.cache
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.g.resources
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.Properties.Resources.resources
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.csproj.GenerateResource.Cache
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.exe.manifest
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.application
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.exe
+C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.pdb

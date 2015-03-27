@@ -1,0 +1,29 @@
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Release\NDExpressWPF Beta 1.0.1.exe.config
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Release\NDExpressWPF Beta 1.0.1.exe.manifest
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Release\NDExpressWPF Beta 1.0.1.application
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Release\NDExpressWPF Beta 1.0.1.exe
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Release\NDExpressWPF Beta 1.0.1.pdb
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Release\MahApps.Metro.dll
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\bin\Release\MahApps.Metro.xml
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\NDExpressWPF Beta 1.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\Login.baml
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\MainWindow.baml
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\Resources\Icons.baml
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\SystemManager\NewClient.baml
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\SystemManager\ViewClients.baml
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\App.baml
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\Login.g.cs
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\MainWindow.g.cs
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\Resources\Icons.g.cs
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\SystemManager\NewClient.g.cs
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\SystemManager\ViewClients.g.cs
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\App.g.cs
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\NDExpressWPF Beta 1.0.1_MarkupCompile.cache
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\NDExpressWPF Beta 1.0.1.g.resources
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\NDExpressWPF_Beta_1._0._1.Properties.Resources.resources
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\NDExpressWPF Beta 1.0.1.csproj.GenerateResource.Cache
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\NDExpressWPF Beta 1.0.1.exe.manifest
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\NDExpressWPF Beta 1.0.1.application
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\NDExpressWPF Beta 1.0.1.exe
+C:\Users\Ruwan Ranganath\documents\visual studio 2013\Projects\NDExpressWPF Beta 1.0.1\NDExpressWPF Beta 1.0.1\obj\Release\NDExpressWPF Beta 1.0.1.pdb
