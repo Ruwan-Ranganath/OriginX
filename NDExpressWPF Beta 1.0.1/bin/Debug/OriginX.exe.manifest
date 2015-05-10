@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MahApps.Metro.dll" size="829440">
-      <assemblyIdentity name="MahApps.Metro" version="1.0.0.0" publicKeyToken="F4FB5A3C4D1E5B4F" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MahApps.Metro.dll" size="849920">
+      <assemblyIdentity name="MahApps.Metro" version="1.1.2.0" publicKeyToken="F4FB5A3C4D1E5B4F" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BW1Cwc7U+mUIpgOWbFoZYlpFfZuflvF4V35+L1cdiOY=</dsig:DigestValue>
+        <dsig:DigestValue>r5R2dAFxVrruWw/REoZQ811Lpi4VZdh9iu/gIyH0I8U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OriginX.exe" size="1668096">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OriginX.exe" size="1668608">
       <assemblyIdentity name="OriginX" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>H5Uqt3gwl6ZuWKnxHNEJRdXsufgvEEMAmZRtdICrMf0=</dsig:DigestValue>
+        <dsig:DigestValue>Ikbe0xLmuVTmqghx3nzpQ99VE93CrVK/ikJPq5BB9yU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -87,13 +87,13 @@
       <dsig:DigestValue>34CTuAx6eGTUcoZ0tWV+i0umiAxsZl5h1OP0EG9vIb4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="OriginX.exe.config" size="541">
+  <file name="OriginX.exe.config" size="959">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>OlwFIZyl8sWw6jjHn2SU6EU/IbEkt8H4eAVdqZrZuuE=</dsig:DigestValue>
+      <dsig:DigestValue>S2l5B5r+K6nrR89AbC5qWbo2Ng+VLOKnixbOrVl/ZpA=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

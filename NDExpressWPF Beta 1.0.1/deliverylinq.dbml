@@ -1,21 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Ndexpress" Class="deliverylinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
-  <Connection Mode="AppSettings" ConnectionString="Data Source=RANGANATH;Initial Catalog=Ndexpress;Integrated Security=True" SettingsObjectName="OriginX.Properties.Settings" SettingsPropertyName="NdexpressConnectionString" Provider="System.Data.SqlClient" />
-  <Function Name="dbo.insertdelivery" Method="insertdelivery">
-    <Parameter Name="delfrom" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="deladd1" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="deladd2" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="deladd3" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="delcity" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="delmob" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="delto" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="toadd1" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="toadd2" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="toadd3" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="tocity" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="tomob" Type="System.String" DbType="VarChar(50)" />
-    <Parameter Name="deldescript" Type="System.String" DbType="VarChar(150)" />
-    <Return Type="System.Int32" />
-  </Function>
+  <Connection Mode="AppSettings" ConnectionString="Data Source=RANGANATH\SQLEXPRESS;Initial Catalog=Ndexpress;Integrated Security=True" SettingsObjectName="OriginX.Properties.Settings" SettingsPropertyName="NdexpressConnectionString1" Provider="System.Data.SqlClient" />
   <Function Name="dbo.addemployees" Method="addemployees">
     <Parameter Name="empname" Type="System.String" DbType="NChar(20)" />
     <Parameter Name="empnic" Type="System.String" DbType="NChar(20)" />
@@ -29,6 +13,22 @@
     <Parameter Name="empname" Type="System.String" DbType="VarChar(50)" />
     <Parameter Name="empid" Type="System.String" DbType="VarChar(10)" />
     <Parameter Name="empdda" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insertdelivery" Method="insertdelivery">
+    <Parameter Name="delfrom" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="deladd1" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="deladd2" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="deladd3" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="delcity" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="delmob" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="delto" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="toadd1" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="toadd2" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="toadd3" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="tocity" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="tomob" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="deldescript" Type="System.String" DbType="VarChar(1000)" />
     <Return Type="System.Int32" />
   </Function>
 </Database>

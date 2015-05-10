@@ -56,3 +56,32 @@ C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\o
 C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.application
 C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.exe
 C:\Ranganath\Data\Desktop Software\Source Code\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.pdb
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.exe.config
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.exe.manifest
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.application
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.exe
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\OriginX.pdb
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\MahApps.Metro.dll
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\System.Windows.Interactivity.dll
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\bin\Debug\MahApps.Metro.xml
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.csprojResolveAssemblyReference.cache
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\Login.baml
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\MainWindow.baml
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\Resources\Icons.baml
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\NewClient.baml
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\ViewClients.baml
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\App.baml
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\Login.g.cs
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\MainWindow.g.cs
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\Resources\Icons.g.cs
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\NewClient.g.cs
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\SystemManager\ViewClients.g.cs
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\App.g.cs
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX_MarkupCompile.cache
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.g.resources
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.Properties.Resources.resources
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.csproj.GenerateResource.Cache
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.exe.manifest
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.application
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.exe
+F:\GitHub\OriginX\NDExpressWPF Beta 1.0.1\obj\Debug\OriginX.pdb

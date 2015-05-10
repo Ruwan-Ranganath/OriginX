@@ -5,6 +5,8 @@
                       Title="OriginX - Courier Company Manager"
                       Height="728.433"
                       Width="1407.336" WindowStartupLocation="CenterScreen" WindowState="Maximized" Cursor="Hand"
+                      GlowBrush="{DynamicResource AccentColorBrush}"
+                      EnableDWMDropShadow="True"
                       FontSize="14">
 
 
