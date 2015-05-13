@@ -279,60 +279,66 @@
                 |
                 <TabItem Header="Employee Management">
                     <Grid Background="#FFE5E5E5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="158*"/>
+                            <ColumnDefinition Width="470*"/>
+                            <ColumnDefinition Width="436*"/>
+                            <ColumnDefinition Width="179*"/>
+                        </Grid.ColumnDefinitions>
                         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="463" Margin="10,8,0,0"
-                                   VerticalAlignment="Top" Width="436" />
-                        <TextBox x:Name="empname" HorizontalAlignment="Left" Height="30" Margin="168,90,0,0"
-                                 TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="16" />
+                                   VerticalAlignment="Top" Width="436" Grid.ColumnSpan="2" />
+                        <TextBox x:Name="empname" HorizontalAlignment="Left" Height="30" Margin="10,90,0,0"
+                                 TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="16" Grid.Column="1" />
                         <Label Content="Name" HorizontalAlignment="Left" Margin="38,92,0,0" VerticalAlignment="Top"
                                Height="33" Width="96" FontSize="16" />
 
                         <Label Content="New Employee" HorizontalAlignment="Left" Height="60" Margin="38,10,0,0"
-                               VerticalAlignment="Top" Width="232" FontSize="30" />
+                               VerticalAlignment="Top" Width="232" FontSize="30" Grid.ColumnSpan="2" />
 
 
-                        <TextBox x:Name="empnic" HorizontalAlignment="Left" Height="30" Margin="168,132,0,0"
+                        <TextBox x:Name="empnic" HorizontalAlignment="Left" Height="30" Margin="10,132,0,0"
                                  TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="16"
-                                 TextChanged="TextBox_TextChanged" />
+                                 TextChanged="TextBox_TextChanged" Grid.Column="1" />
                         <Label Content="NIC" HorizontalAlignment="Left" Margin="38,132,0,0" VerticalAlignment="Top"
                                Height="33" Width="96" FontSize="16" />
 
-                        <TextBox x:Name="empmob" HorizontalAlignment="Left" Height="30" Margin="168,174,0,0"
-                                 TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="16" />
+                        <TextBox x:Name="empmob" HorizontalAlignment="Left" Height="30" Margin="10,174,0,0"
+                                 TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="16" Grid.Column="1" />
                         <Label Content="Mobile " HorizontalAlignment="Left" Margin="38,174,0,0" VerticalAlignment="Top"
                                Height="33" Width="96" FontSize="16" />
                         <Label Content="Address" HorizontalAlignment="Left" Margin="38,212,0,0" VerticalAlignment="Top"
                                Height="33" Width="96" FontSize="16" />
 
                         <TextBox x:Name="empaddress" TextWrapping="Wrap" AcceptsReturn="True"
-                                 VerticalScrollBarVisibility="Visible" Margin="168,220,844,212" />
+                                 VerticalScrollBarVisibility="Visible" Margin="10,220,229,212" Grid.Column="1" />
 
-                        <TextBox x:Name="empbasicsalary" HorizontalAlignment="Left" Height="30" Margin="168,310,0,0"
+                        <TextBox x:Name="empbasicsalary" HorizontalAlignment="Left" Height="30" Margin="10,310,0,0"
                                  TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="16"
-                                 TextChanged="TextBox_TextChanged" />
+                                 TextChanged="TextBox_TextChanged" Grid.Column="1" />
                         <Label Content="Basic Salary" HorizontalAlignment="Left" Margin="38,310,0,0"
                                VerticalAlignment="Top" Height="33" Width="96" FontSize="16" />
-                        <TextBox x:Name="empposition" HorizontalAlignment="Left" Height="30" Margin="168,348,0,0"
+                        <TextBox x:Name="empposition" HorizontalAlignment="Left" Height="30" Margin="10,348,0,0"
                                  TextWrapping="Wrap" VerticalAlignment="Top" Width="232" FontSize="16"
-                                 TextChanged="TextBox_TextChanged" />
+                                 TextChanged="TextBox_TextChanged" Grid.Column="1" />
                         <Label Content="Position" HorizontalAlignment="Left" Margin="38,348,0,0"
                                VerticalAlignment="Top" Height="33" Width="96" FontSize="16" />
-                        <Button Content="Submit Details" HorizontalAlignment="Left" Height="38" Margin="277,409,0,0"
-                                VerticalAlignment="Top" Width="123" Click="Button_Click_5" />
+                        <Button Content="Submit Details" HorizontalAlignment="Left" Height="38" Margin="119,409,0,0"
+                                VerticalAlignment="Top" Width="123" Click="Button_Click_5" Grid.Column="1" />
                         <Button Content="Reset" HorizontalAlignment="Left" Height="38" Margin="38,409,0,0"
                                 VerticalAlignment="Top" Width="114" Click="Button_Click" />
-                        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="460" Margin="463,11,0,0"
-                                   VerticalAlignment="Top" Width="752" />
-                        <DataGrid HorizontalAlignment="Left" Height="331" Margin="481,90,0,0" VerticalAlignment="Top"
-                                  Width="716" AutoGenerateColumns="True" />
-                        <TextBox HorizontalAlignment="Left" Height="29" Margin="901,44,0,0" TextWrapping="Wrap"
+                        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="460" Margin="305,11,0,0"
+                                   VerticalAlignment="Top" Width="752" Grid.Column="1" Grid.ColumnSpan="3" />
+                        <DataGrid HorizontalAlignment="Left" Height="331" Margin="323,90,0,0" VerticalAlignment="Top"
+                                  Width="716" AutoGenerateColumns="True" Grid.Column="1" Grid.ColumnSpan="3" />
+                        <TextBox HorizontalAlignment="Left" Height="29" Margin="273,44,0,0" TextWrapping="Wrap"
                                  Text="Search employee..." VerticalAlignment="Top" Width="184" FontSize="16"
-                                 GotFocus="TextBox_GotFocus" />
-                        <Button Content="Search " HorizontalAlignment="Left" Margin="1102,41,0,0"
-                                VerticalAlignment="Top" Width="75" Height="31" />
-                        <Button x:Name="loadempdata" Content="Get Data" HorizontalAlignment="Left" Margin="483,37,0,0"
-                                VerticalAlignment="Top" Width="84" Height="34" Click="loadempdata_Click" />
-                        <Button Content="Delete &#xD;&#xA;" HorizontalAlignment="Left" Margin="1122,430,0,0"
-                                VerticalAlignment="Top" Width="75" Height="17" />
+                                 GotFocus="TextBox_GotFocus" Grid.Column="2" Grid.ColumnSpan="2" />
+                        <Button Content="Search " HorizontalAlignment="Left" Margin="38,41,0,0"
+                                VerticalAlignment="Top" Width="75" Height="31" Grid.Column="3" />
+                        <Button x:Name="loadempdata" Content="Get Data" HorizontalAlignment="Left" Margin="325,37,0,0"
+                                VerticalAlignment="Top" Width="84" Height="34" Click="loadempdata_Click" Grid.Column="1" />
+                        <Button Content="Delete &#xD;&#xA;" HorizontalAlignment="Left" Margin="58,430,0,0"
+                                VerticalAlignment="Top" Width="75" Height="17" Grid.Column="3" />
                     </Grid>
                 </TabItem>
                 |

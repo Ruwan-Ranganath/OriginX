@@ -1,14 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Ndexpress" Class="deliverylinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
-  <Connection Mode="AppSettings" ConnectionString="Data Source=RANGANATH\SQLEXPRESS;Initial Catalog=Ndexpress;Integrated Security=True" SettingsObjectName="OriginX.Properties.Settings" SettingsPropertyName="NdexpressConnectionString1" Provider="System.Data.SqlClient" />
-  <Function Name="dbo.addemployees" Method="addemployees">
-    <Parameter Name="empname" Type="System.String" DbType="NChar(20)" />
-    <Parameter Name="empnic" Type="System.String" DbType="NChar(20)" />
-    <Parameter Name="empmob" Type="System.String" DbType="NChar(20)" />
-    <Parameter Name="empaddress" Type="System.String" DbType="NChar(20)" />
-    <Parameter Name="empbasicsalary" Type="System.String" DbType="NChar(20)" />
-    <Parameter Name="empposition" Type="System.String" DbType="NChar(20)" />
-    <Return Type="System.Int32" />
-  </Function>
+  <Connection Mode="AppSettings" ConnectionString="Data Source=invoker.cp7lwl9ibh36.ap-southeast-1.rds.amazonaws.com,1433;Initial Catalog=Ndexpress;Persist Security Info=True;User ID=admin" SettingsObjectName="OriginX.Properties.Settings" SettingsPropertyName="NdexpressConnectionString2" Provider="System.Data.SqlClient" />
   <Function Name="dbo.emap" Method="emap">
     <Parameter Name="empname" Type="System.String" DbType="VarChar(50)" />
     <Parameter Name="empid" Type="System.String" DbType="VarChar(10)" />
@@ -29,6 +20,15 @@
     <Parameter Name="tocity" Type="System.String" DbType="VarChar(50)" />
     <Parameter Name="tomob" Type="System.String" DbType="VarChar(50)" />
     <Parameter Name="deldescript" Type="System.String" DbType="VarChar(1000)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.addemployees" Method="addemployees">
+    <Parameter Name="empname" Type="System.String" DbType="NChar(20)" />
+    <Parameter Name="empnic" Type="System.String" DbType="NChar(20)" />
+    <Parameter Name="empmob" Type="System.String" DbType="NChar(20)" />
+    <Parameter Name="empaddress" Type="System.String" DbType="NChar(20)" />
+    <Parameter Name="empbasicsalary" Type="System.String" DbType="NChar(20)" />
+    <Parameter Name="empposition" Type="System.String" DbType="NChar(20)" />
     <Return Type="System.Int32" />
   </Function>
 </Database>

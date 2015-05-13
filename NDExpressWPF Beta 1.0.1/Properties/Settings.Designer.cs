@@ -43,5 +43,16 @@ namespace OriginX.Properties {
                 return ((string)(this["NdexpressConnectionString1"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=invoker.cp7lwl9ibh36.ap-southeast-1.rds.amazonaws.com,1433;Initial Ca" +
+            "talog=Ndexpress;Persist Security Info=True;User ID=admin;Password=123123123")]
+        public string NdexpressConnectionString2 {
+            get {
+                return ((string)(this["NdexpressConnectionString2"]));
+            }
+        }
     }
 }

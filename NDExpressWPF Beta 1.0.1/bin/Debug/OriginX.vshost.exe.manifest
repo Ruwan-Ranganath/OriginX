@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OriginX.exe" size="1668608">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OriginX.exe" size="1669120">
       <assemblyIdentity name="OriginX" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ikbe0xLmuVTmqghx3nzpQ99VE93CrVK/ikJPq5BB9yU=</dsig:DigestValue>
+        <dsig:DigestValue>F9ZlnmWSDYEkUSulocgFaEjdNkYlmJ5/Y28R7Fo1380=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -87,13 +87,13 @@
       <dsig:DigestValue>34CTuAx6eGTUcoZ0tWV+i0umiAxsZl5h1OP0EG9vIb4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="OriginX.exe.config" size="959">
+  <file name="OriginX.exe.config" size="1334">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>S2l5B5r+K6nrR89AbC5qWbo2Ng+VLOKnixbOrVl/ZpA=</dsig:DigestValue>
+      <dsig:DigestValue>LHovzUugQFo4KaE640lONEgknc4K8l6Ka2g0pfLyTjQ=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

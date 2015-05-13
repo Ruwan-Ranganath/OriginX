@@ -33,7 +33,7 @@ namespace OriginX
     #endregion
 		
 		public deliverylinqDataContext() : 
-				base(global::OriginX.Properties.Settings.Default.NdexpressConnectionString1, mappingSource)
+				base(global::OriginX.Properties.Settings.Default.NdexpressConnectionString2, mappingSource)
 		{
 			OnCreated();
 		}
@@ -62,13 +62,6 @@ namespace OriginX
 			OnCreated();
 		}
 		
-		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.addemployees")]
-		public int addemployees([global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empname, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empnic, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empmob, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empaddress, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empbasicsalary, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empposition)
-		{
-			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), empname, empnic, empmob, empaddress, empbasicsalary, empposition);
-			return ((int)(result.ReturnValue));
-		}
-		
 		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.emap")]
 		public int emap([global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string empname, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(10)")] string empid, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string empdda)
 		{
@@ -80,6 +73,13 @@ namespace OriginX
 		public int insertdelivery([global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string delfrom, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string deladd1, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string deladd2, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string deladd3, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string delcity, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string delmob, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string delto, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string toadd1, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string toadd2, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string toadd3, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string tocity, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(50)")] string tomob, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="VarChar(1000)")] string deldescript)
 		{
 			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), delfrom, deladd1, deladd2, deladd3, delcity, delmob, delto, toadd1, toadd2, toadd3, tocity, tomob, deldescript);
+			return ((int)(result.ReturnValue));
+		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.addemployees")]
+		public int addemployees([global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empname, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empnic, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empmob, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empaddress, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empbasicsalary, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType="NChar(20)")] string empposition)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), empname, empnic, empmob, empaddress, empbasicsalary, empposition);
 			return ((int)(result.ReturnValue));
 		}
 	}
